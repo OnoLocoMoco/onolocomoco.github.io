@@ -748,49 +748,6 @@ a {
 .cid-sV7YgpsXCs .icon-text {
   color: #8e8d8a;
 }
-.cid-sVFpC0djtK {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-image: url("../../../assets/images/background1.jpg");
-}
-.cid-sVFpC0djtK .media-container-row {
-  justify-content: space-between;
-}
-.cid-sVFpC0djtK .text-content {
-  max-width: 50%;
-}
-@media (max-width: 768px) {
-  .cid-sVFpC0djtK .text-content {
-    max-width: none;
-  }
-}
-.cid-sVFpC0djtK .mbr-iconfont-social {
-  margin: 0.5rem;
-  font-size: 32px;
-  display: flex;
-  border-radius: 50%;
-  text-align: center;
-  color: #6592e6;
-  border: 2px solid #6592e6;
-  justify-content: center;
-  align-content: center;
-  transition: all 0.3s;
-}
-.cid-sVFpC0djtK .mbr-iconfont-social:before {
-  padding: 0.6rem;
-}
-.cid-sVFpC0djtK .mbr-iconfont-social:hover {
-  background-color: #6592e6;
-  color: #ffffff;
-}
-@media (max-width: 768px) {
-  .cid-sVFpC0djtK .icons {
-    justify-content: center !important;
-  }
-  .cid-sVFpC0djtK .text-content * {
-    text-align: center;
-  }
-}
 .cid-sVmVe5Dh1E {
   padding-top: 5rem;
   padding-bottom: 5rem;
